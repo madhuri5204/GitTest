@@ -1,2 +1,3 @@
 "Hello,Git!" 
 "This is an update " 
+"This change is in the new-featurs branch " 
